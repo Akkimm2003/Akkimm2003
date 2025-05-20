@@ -1,16 +1,28 @@
-## Hi there 👋
+# 👋 Hi there, I'm Akkimm2003!
 
-<!--
-**Akkimm2003/Akkimm2003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile!  
+I'm a **Software Engineer** and a **Student** passionate about building robust and innovative solutions.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+- 👨‍💻 **Student & Software Engineer:** Always learning, always building.
+- 🖥️ **Languages I Love:**  
+  - Python 🐍  
+  - C# ⚙️  
+  - C++ 🚀  
+  - PostgreSQL 🐘  
+
+---
+
+## 🛠️ Skills & Tools
+
+- **Programming Languages:**  
+  ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=fff) 
+  ![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=fff)
+  ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=fff)
+- **Databases:**  
+  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=fff)
+
+---
