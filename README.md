@@ -1,7 +1,7 @@
 # 👋 Hi there, I'm Akkimm2003!
 
 Welcome to my GitHub profile!  
-I'm a **Software Engineer** and a **Student** passionate about building robust and innovative solutions.
+I'm a **Software Engineer** and a **Student** passionate about building robust and innovative solutions. And I'm a **Hard of Hearing**
 
 ---
 
